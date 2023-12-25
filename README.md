@@ -8,7 +8,7 @@ I'm deeply interested in the fascinating realms of Data Science and Machine Lear
 
 ## 🌱 Currently Learning
 
-As a perpetual learner, I'm always looking to expand my knowledge and stay up-to-date with the latest trends in the field. My current focus includes:
+As a perpetual learner, I'm always looking to expand my knowledge and stay up-to-date with the latest trends in the field. My current focus includes :
 
 - Advanced machine learning techniques.
 - Data engineering and processing.
