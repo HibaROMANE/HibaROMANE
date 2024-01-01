@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Hiba ROMANE, an enthusiastic and dedicated engineering student with a passion for Data Science and Machine Learning. Currently pursuing my degree at the National School of Applied Sciences in Khouribga, Morocco.
+Welcome to my GitHub profile! I'm Hiba ROMANE, an enthusiastic and dedicated engineering student with a passion for Data Science and Machine Learning. Currently pursuing my degree at the National School of Applied Sciences in Khouribga , Morocco.
 
 ## 🔍 What I'm Into
 
