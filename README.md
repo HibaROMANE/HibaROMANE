@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Hiba ROMANE, an enthusiastic and dedicated engineering student with a passion for Data Science and Machine Learning. Currently pursuing my degree at the National School of Applied Sciences in Khouribga, Morocco.
+Welcome to my GitHub profile! I'm Hiba ROMANE, an enthusiastic and dedicated engineer with a passion for Data Science and Machine Learning. Graduated in 2024 from the National School of Applied Sciences in Khouribga, Morocco.
 
 ## 🔍 What I'm Into
 
-I'm deeply interested in the fascinating realms of Data Science and Machine Learning. My journey involves exploring innovative solutions, diving into predictive analytics, and leveraging the power of algorithms to extract meaningful insights from data.
+I'm deeply interested in the fascinating realms of Data and IT. My journey involves exploring innovative solutions, diving into predictive analytics, and leveraging the power of algorithms to extract meaningful insights from data.
 
 ## 🌱 Currently Learning
 
@@ -12,7 +12,7 @@ As a perpetual learner, I'm always looking to expand my knowledge and stay up-to
 
 - Advanced machine learning techniques.
 - Data engineering and processing.
-- Cloud computing for scalable solutions.
+- Computer science.
 
 ## 📬 Let's Connect!
 
@@ -20,7 +20,7 @@ I believe in the power of collaboration and networking. Feel free to reach out t
 
 ## 🚀 Projects Showcase
 
-Explore my repositories to find a collection of projects that reflect my skills and interests. From data analysis and visualization to machine learning models, each project tells a story of my growth and passion for leveraging technology to solve real-world problems.
+Explore my repositories to find a collection of projects that reflect my skills and interests. From IT, data analysis and visualization to machine learning models, each project tells a story of my growth and passion for leveraging technology to solve real-world problems.
 
 ## 📈 GitHub Stats
 
